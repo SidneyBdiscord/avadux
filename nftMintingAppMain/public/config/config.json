@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "SCAN_LINK": "https://snowtrace.io/token/0x03af83e4bb798b171931975b758686a7bd640c3a",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "Avax",
+    "ID": 43114
+  },
+  "NFT_NAME": "AVADUX",
+  "SYMBOL": "ADUX",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0x03af83e4bb798b171931975b758686a7bd640c3a",
+  "SHOW_BACKGROUND": true
+}
